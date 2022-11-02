@@ -3,4 +3,4 @@ PySpark is an interface for Apache Spark in Python. It not only allows you to wr
 
 Documentation:- https://spark.apache.org/docs/latest/api/python/
 
-Databricks community (free):- https://community.cloud.databricks.com/?o=4252104726901206#
+Databricks community Version (free):- https://community.cloud.databricks.com/?o=4252104726901206#
